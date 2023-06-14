@@ -1,0 +1,10 @@
+{
+    "description": "Binaryvitle Robot",
+    "image": "ipfs://QmcGTGAU7GddZSSHs7dUrF182EzTJ5TPrCB78tVQ4eepJX,
+"name":"Bert",
+"attributes":[
+{ "trait_type": "Base", "value": "Toaster Head" },
+{ "trait_type": "Color", "value: "Blue },
+{ "trait_type": "Expression", "value": "Dejected"},
+]
+}
